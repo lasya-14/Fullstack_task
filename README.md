@@ -154,7 +154,7 @@ CREATE TABLE users (
 ---
 
 ### 2. Add Organization Modal
-![Add Organization](./screenshots/add-organization.png)
+![Add Organization](ScreenShots/org_details.png)
 *Comprehensive form to create a new organization with fields for:*
 - Organization name and slug
 - Email and contact information
@@ -166,7 +166,7 @@ CREATE TABLE users (
 ---
 
 ### 3. Organization Details - Users Tab
-![Organization Users](./screenshots/organization-users.png)
+![Organization Users](ScreenShots/add_user.png)
 *User management interface showing:*
 - List of all users in the organization
 - User roles and status
@@ -176,7 +176,7 @@ CREATE TABLE users (
 ---
 
 ### 4. Add User Modal
-![Add User](./screenshots/add-user.png)
+![Add User](ScreenShots/add_user.png)
 *Simple form to add new users with:*
 - Name input field
 - Email address
@@ -186,7 +186,7 @@ CREATE TABLE users (
 ---
 
 ### 5. Organization Details - Basic Details Tab
-![Organization Basic Details](./screenshots/organization-basic-details.png)
+![Organization Basic Details](ScreenShots/org_details.png)
 *Detailed view of organization information including:*
 - Organization profile
 - Contact details section
@@ -200,7 +200,7 @@ CREATE TABLE users (
 ---
 
 ### 6. Database - Users Table
-![Database Users](./screenshots/database-users.png)
+![Database Users](ScreenShots/user_data.png)
 *MySQL Workbench view showing:*
 - Users table structure
 - Sample user data
@@ -210,7 +210,7 @@ CREATE TABLE users (
 ---
 
 ### 7. Database - Organizations Table
-![Database Organizations](./screenshots/database-organizations.png)
+![Database Organizations](ScreenShots/org_data.png)
 *MySQL Workbench view showing:*
 - Organizations table structure
 - Sample organization data
