@@ -138,6 +138,35 @@ CREATE TABLE users (
 - **Foreign Key**: Users.organization_id references Organizations.id
 - **Cascade Delete**: Deleting an organization removes all associated users
 
+## ER Diagram
+```
+┌─────────────────────────┐         ┌─────────────────────────┐
+│    ORGANIZATIONS        │         │        USERS            │
+├─────────────────────────┤         ├─────────────────────────┤
+│ PK: id (INT)            │         │ PK: id (INT)            │
+│                         │    1:N  │ FK: organization_id     │
+│ name                    │─────────│                         │
+│ slug (UNIQUE)           │         │ name                    │
+│ email                   │         │ email                   │
+│ contact                 │         │ role                    │
+│ phone                   │         │ status                  │
+│ alternative_phone       │         │ created_at              │
+│ organization_id (UNIQUE)│         │ updated_at              │
+│ logo_url                │         └─────────────────────────┘
+│ timezone                │
+│ language                │
+│ region                  │
+│ website_url             │
+│ max_coordinators        │
+│ status                  │
+│ created_at              │
+│ updated_at              │
+└─────────────────────────┘
+```
+
+**Relationship:** One organization can have many users (1:N)
+**Constraint:** ON DELETE CASCADE
+
 ## 📸 Screenshots
 
 ### 1. Organizations List View
