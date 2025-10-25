@@ -2,7 +2,6 @@
 
 A full-stack web application for managing B2B organizations and their users, built with React, Node.js, and MySQL.
 
-![Project Banner](./screenshots/banner.png)
 
 ## 📋 Table of Contents
 
