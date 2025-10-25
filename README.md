@@ -90,12 +90,6 @@ This project is a comprehensive organization and user management system designed
 
 ## 📊 Database Schema
 
-### ER Diagram
-
-![ER Diagram](./docs/er-diagram.png)
-
-[Download ER Diagram PDF](./docs/er-diagram.pdf)
-
 ### Database Structure
 
 #### Tables Overview
@@ -980,89 +974,3 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
-## 👤 Author
-
-**Your Name**
-
-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 🐱 GitHub: [@yourusername](https://github.com/yourusername)
-- 📧 Email: your.email@example.com
-- 📱 Phone: +91-XXXXXXXXXX
-
-## 🙏 Acknowledgments
-
-- **Pragati Engineering College** - For providing this task assignment
-- **Figma Design Team** - For the comprehensive UI/UX designs
-- **React Community** - For excellent documentation and resources
-- **Node.js Community** - For robust backend framework
-- **Tailwind CSS** - For utility-first CSS framework
-- **MySQL** - For reliable database management
-- **Stack Overflow** - For community support and solutions
-
-## 📚 Additional Resources
-
-- [React Documentation](https://react.dev/)
-- [Node.js Documentation](https://nodejs.org/docs/)
-- [Express.js Guide](https://expressjs.com/)
-- [MySQL Documentation](https://dev.mysql.com/doc/)
-- [Tailwind CSS Documentation](https://tailwindcss.com/docs)
-- [REST API Best Practices](https://restfulapi.net/)
-- [Git Documentation](https://git-scm.com/doc)
-
-## 📞 Support
-
-For support, email your.email@example.com or create an issue in the GitHub repository.
-
----
-
-## 📊 Project Statistics
-
-- **Total Lines of Code**: ~5,000
-- **Components**: 15+
-- **API Endpoints**: 10
-- **Database Tables**: 2
-- **Development Time**: 40+ hours
-
----
-
-## 🎯 Future Enhancements
-
-- [ ] User authentication and authorization
-- [ ] Role-based access control (RBAC)
-- [ ] Email notifications
-- [ ] Export functionality (PDF, Excel)
-- [ ] Advanced search and filtering
-- [ ] Dashboard analytics
-- [ ] Organization logo upload
-- [ ] Multi-language support
-- [ ] Dark mode theme
-- [ ] Mobile app version
-- [ ] Activity logs
-- [ ] Batch operations
-- [ ] API rate limiting
-- [ ] Unit and integration tests
-- [ ] Docker containerization
-- [ ] CI/CD pipeline
-
----
-
-## 📅 Version History
-
-### Version 1.0.0 (Current)
-- Initial release
-- Basic CRUD operations for organizations
-- User management functionality
-- Responsive UI design
-- MySQL database integration
-- REST API implementation
-
----
-
-**Made with ❤️ for Pragati Engineering College**
-
-**⭐ Star this repository if you found it helpful!**
-
----
-
-**Last Updated**: October 25, 2025
