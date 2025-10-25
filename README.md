@@ -148,7 +148,7 @@ CREATE TABLE users (
 ## 📸 Screenshots
 
 ### 1. Organizations List View
-![Organizations List]()
+![Organizations List](ScreenShots/dashboard.png)
 *Main dashboard displaying all B2B organizations with search functionality and action buttons*
 
 ---
