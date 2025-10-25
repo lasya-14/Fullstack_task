@@ -163,7 +163,7 @@ CREATE TABLE users (
 │ updated_at              │
 └─────────────────────────┘
 ```
-
+![ER](ScreenShots/ER.png) ![ER](ScreenShots/ER1.png)
 **Relationship:** One organization can have many users (1:N)
 **Constraint:** ON DELETE CASCADE
 
